@@ -29,7 +29,7 @@
   "bugs": {
     "url": "https://github.com/dwyl/hapi-auth-twitter/issues"
   },
-  "homepage": "https://github.com/dwyl/hapi-auth-twitter#readme",
+  "homepage": "https://github.com/dwyl/hapi-auth-twitter",
   "devDependencies": {
     "env2": "^2.1.1",
     "hapi": "^14.1.0",
